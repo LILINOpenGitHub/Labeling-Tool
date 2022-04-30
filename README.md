@@ -6,8 +6,8 @@ Visit [here](https://www.dropbox.com/s/2oceggrco3kpjow/LILIN%20AI%20Labeling%20T
 
 # How to use
 Prepare all your pictures into a folder (a project). <BR>
-Creat the [names](https://github.com/LILINOpenGitHub/Labeling-Tool/blob/main/GYNet_AIFIRE_Label.names) file at the folder.
-Click File->Open Project for the pictures.
-Select the object name and label the object on the picture.
+Creat the [names](https://github.com/LILINOpenGitHub/Labeling-Tool/blob/main/GYNet_AIFIRE_Label.names) file at the folder. <BR>
+Click File->Open Project for the pictures. <BR>
+Select the object name and label the object on the picture. <BR>
 
 ![image](https://github.com/LILINOpenGitHub/Labeling-Tool/blob/main/img/labelingtool.gif)
