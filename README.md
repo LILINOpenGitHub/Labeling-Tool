@@ -8,4 +8,4 @@ Visit [here](https://www.dropbox.com/s/2oceggrco3kpjow/LILIN%20AI%20Labeling%20T
 Prepare all your pictures into a folder. <BR>
 Creat the names file at the folder.
 
-![image](https://github.com/LILINOpenGitHub/Labeling-Tool/blob/main/img/labelingtool.gif width=720)
+![image](https://github.com/LILINOpenGitHub/Labeling-Tool/blob/main/img/labelingtool.gif | width=720 | height=480)
