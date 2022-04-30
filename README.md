@@ -6,6 +6,6 @@ Visit [here](https://www.dropbox.com/s/2oceggrco3kpjow/LILIN%20AI%20Labeling%20T
 
 # How to use
 Prepare all your pictures into a folder. <BR>
-Creat the names file at the folder.
+Creat the [names](https://github.com/LILINOpenGitHub/Labeling-Tool/blob/main/GYNet_AIFIRE_Label.names) file at the folder.
 
 ![image](https://github.com/LILINOpenGitHub/Labeling-Tool/blob/main/img/labelingtool.gif)
