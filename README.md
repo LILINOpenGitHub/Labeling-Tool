@@ -10,4 +10,7 @@ Creat the [names](https://github.com/LILINOpenGitHub/Labeling-Tool/blob/main/GYN
 Click File->Open Project for the pictures. <BR>
 Select the object name and label the object on the picture. <BR>
 
+# What is the next
+Visit [Colab for YOLO training] (https://github.com/LILINOpenGitHub/Colab-YOLO-Tiny).
+
 ![image](https://github.com/LILINOpenGitHub/Labeling-Tool/blob/main/img/labelingtool.gif)
