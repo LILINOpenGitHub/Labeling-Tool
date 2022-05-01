@@ -9,6 +9,7 @@ Prepare all your pictures into a folder (a project). <BR>
 Creat the [names](https://github.com/LILINOpenGitHub/Labeling-Tool/blob/main/GYNet_AIFIRE_Label.names) file at the folder. <BR>
 Click File->Open Project for the pictures. <BR>
 Select the object name and label the object on the picture. <BR>
+Delete an object.  Select the labeling and click delete key. <BR>
 
 # What is the next
 Visit [Colab for YOLO training] (https://github.com/LILINOpenGitHub/Colab-YOLO-Tiny).
